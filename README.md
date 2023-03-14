@@ -46,5 +46,6 @@ Above screenshot shows the outlier, volume, pattern analysis that has to be done
 Above screenshot shows the dataset uploaded to AWS cloud s3
 When you run the driver.py this may not work for you as I have done it with IAM user created locally, so attaching screenshot of file uploaded to s3 as well below!
 
-[Dataoncloud](https://user-images.githubusercontent.com/47883106/224938462-1d5ddbee-7244-4e90-a335-eb783fab2b8e.jpeg)
+![dataoncloud](https://user-images.githubusercontent.com/47883106/224940468-e6fd4dea-3d1f-455a-874b-1ba4fb8d0880.png)
+
 
